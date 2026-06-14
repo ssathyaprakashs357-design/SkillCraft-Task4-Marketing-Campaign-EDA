@@ -32,6 +32,9 @@ Dashboard screenshots and screen recording are included in this repository.
 ### Video Walkthrough
 🔗 Google Drive Link: https://drive.google.com/file/d/1ctOOG4OErkmE63F8aXH5Sz6pzdFRhFLo/view?usp=drivesdk
 
+<img width="1284" height="718" alt="image" src="https://github.com/user-attachments/assets/c8083114-b17c-425c-a1fa-92fda495930e" />
+
+• The dashboard transforms raw marketing campaign data into actionable business insights by visualizing key performance indicators such as ROI, conversion rates, audience performance, and campaign effectiveness. Interactive filtering capabilities allow stakeholders to identify trends, compare marketing channels, and evaluate campaign outcomes to support informed decision-making.
 ---
 **Author:** Sathya Prakash S  
 Data Analytics Intern | Aspiring Data Analyst
